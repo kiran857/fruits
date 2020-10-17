@@ -1,0 +1,27 @@
+/***************************  Tag selector     ***********************/
+        h1{
+            color:red;
+            font-size: 90px;
+        }
+        img{
+            background-color: lightgreen;
+          }
+          img:hover{
+              background-color: yellow;
+          }
+ /********8888888888888888888888  Class selector  **********************/
+        .mango{
+            background-color: rgb(42, 145, 42);
+        }
+        .banana{
+            background-color:rgb(211, 95, 182); 
+        }
+       .roundimg{
+            border-radius: 100%;
+        }
+       
+/************************   Id selector    ******************************/
+
+        #heading{
+            color: green;
+        }
